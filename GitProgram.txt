@@ -34,3 +34,25 @@
 //to get back to the last saved changes, use git checkout main.
 //and here i am saving the changes, adding to git and committing as fourthnfinal commit.
 
+
+
+//now understanding GitHub
+//git is in local machine, GitHub is the concept of git on remote server
+//so created a account on GitHub, and created a new repository named FirstGitOnGithub
+//after creating, in Quick Setup following the'''' push an existing repository from the command line''' instructions
+
+//now in gitbash i will check is there any remote location already?
+//by using command git remote -v, it showing nothing means no already
+//i disconnected internet
+//so following first instruction. type command git remote add origin https://github.com/jagdishworld/FirstGitOnGithub.git
+//now checking by git remote -v, terminal showing push and fetch, means ok
+
+//following second instruction git branch -M main
+//following third instruction git push -u origin main
+// now here internet is must required, i connected to the internt
+//but now error comes with popup window, this module is blocked from loading into the local security authority, and also GitHub login window open, i authorize the access by login
+//then wow.. success.. i refreshed GitHub. the all commits history showed in website.
+
+//now i m chckin git status and log. terminal showing nothing to commit. git log showing all 4 commits
+
+//now i am saving, adding and commiting the changes as "firstremotecommit"
