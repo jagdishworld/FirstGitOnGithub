@@ -54,5 +54,7 @@
 //then wow.. success.. i refreshed GitHub. the all commits history showed in website.
 
 //now i m chckin git status and log. terminal showing nothing to commit. git log showing all 4 commits
-
 //now i am saving, adding and commiting the changes as "firstremotecommit"
+//now i checked on the GitHub, there is no "firstremotecommit"
+//i have to use cmd git push, and i refreshed GitHub, i found the firstremotecommit. success.
+//so finally i am saving this changes in text editor, and adding to git and committing as "finalremotecommit"
