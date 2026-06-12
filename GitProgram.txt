@@ -61,3 +61,9 @@
 
 //now i am curious that can edit is possible directly from github. so i found editor, and i m adding this line from github. and lets commit the changes
 //its asking commit name, i am giving "FirstGithubCommit"
+
+now i was thinking how this change made in github will reflect in local machine,
+so used cmd in gitbash git pull origin main, but after navigating in that repository folder and verifying the connection by cmd git remote -v(it showed push,fetch means ok)
+IMP. your local Git repository is linked to a remote repository configuration using the shortname "origin". Git dont allow multiple remote links to share the exact same shortname within a single local repository
+
+thus checkd the changes to local machine, now committing this by naming "SyncToLocalMachine"
