@@ -18,8 +18,16 @@
 //checked this action by git status ... terminal displayd "changes to be committed in new file GitProgram.txt (means now it is in staging area)
 
 //committed the changes by git commit -m "first commit"
-//terminal showed 1 file changed, 14 inserstions+
+//terminal showed 1 file changed, 15 inserstions+
 //checked this action by git status,,found nothing to commit.. means ok
 //also checked by git log
 
 //now i am again saving the changes in this text file.
+//checked the git status.. terminal showed Changes not staged for commit:modified: GitProgram.txt
+//so i have to add again the file for staging and the committing
+//used git add GitProgram.txt and then git commit -m "second committ"
+//checked by git log.. terminal showing list of all commits with hashcode
+
+//checkout command to go to previous version, using git checkout <hashcode>
+//firstly i am saving this file here.
+
