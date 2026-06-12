@@ -1,0 +1,15 @@
+//first of i insatalled git(a version control system), i got a new terminal gitbash
+//checked its proper installtion by command git --version
+//configured git by following commands
+//git config --global user.name "Jagdish Patidar"
+//git config --global user.email "patidar.jg@gmail.com" 
+// checked them by git config --list
+
+//created directory FirstGitFromTerminal by mkdir
+//went into that new directory by cd command
+//to check in which directory u are use pwd command
+
+//initialise this directory for git by using command git init
+//to check this action used cmd git status
+
+//created this text file 
