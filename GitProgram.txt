@@ -58,3 +58,6 @@
 //now i checked on the GitHub, there is no "firstremotecommit"
 //i have to use cmd git push, and i refreshed GitHub, i found the firstremotecommit. success.
 //so finally i am saving this changes in text editor, and adding to git and committing as "finalremotecommit"
+
+//now i am curious that can edit is possible directly from github. so i found editor, and i m adding this line from github. and lets commit the changes
+//its asking commit name, i am giving "FirstGithubCommit"
