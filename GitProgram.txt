@@ -12,4 +12,14 @@
 //initialise this directory for git by using command git init
 //to check this action used cmd git status
 
-//created this text file 
+//created this text file and pressed the save button.
+//now added this file to git for tracking its changes from now by command git add GitProgram.txt
+
+//checked this action by git status ... terminal displayd "changes to be committed in new file GitProgram.txt (means now it is in staging area)
+
+//committed the changes by git commit -m "first commit"
+//terminal showed 1 file changed, 14 inserstions+
+//checked this action by git status,,found nothing to commit.. means ok
+//also checked by git log
+
+//now i am again saving the changes in this text file.
