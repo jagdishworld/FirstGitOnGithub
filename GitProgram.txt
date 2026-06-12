@@ -29,5 +29,8 @@
 //checked by git log.. terminal showing list of all commits with hashcode
 
 //checkout command to go to previous version, using git checkout <hashcode>
-//firstly i am saving this file here.
+//firstly i am saving this file here... i also added and committed this changes as third commit
+//i checked out to first commit, it was awesome..
+//to get back to the last saved changes, use git checkout main.
+//and here i am saving the changes, adding to git and committing as fourthnfinal commit.
 
